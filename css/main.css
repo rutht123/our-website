@@ -3,13 +3,35 @@ body {
   /* background: linear-gradient(#23183d, #481c2b, #1d0c08); */
   background-size: cover;
   /* background-color: #cccccc; */
+       color: rgb(24,17,128);
+       font-family: verdana;
+       text-align: center;
 
 }
-
-h1, h2 {
-  text-align: center;
+div .container {
+  display: inline-block;
+  position: relative;
+  left: 1em;
+  top: 1em;
+  width: 40%;
+  margin: 10vh 10vw;
+  font-size: 2em;
 }
 
-h2 {
 
+div{
+  min-height: 50vh;
+  width: 50vw;
+  /* text-align: center; */
+}
+
+img{
+    display: flex;
+    padding: 20px;
+    margin: 0 auto;
+    border-radius: 130px;
+}
+
+h2, h3 {
+  color: rgb(26,77,128);
 }
