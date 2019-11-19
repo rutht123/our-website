@@ -1,0 +1,9 @@
+body {
+     color: rgb(24,17,128);
+     font-family: trebuchet;
+     margin: 20px;
+     text-align: center;
+}
+h2, h3 {
+  color: rgb(26,77,128);
+}
